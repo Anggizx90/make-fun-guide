@@ -8,15 +8,15 @@
 
 No gatekeeping, no résumé, no interview. If your agent can build it, you can win it.
 
-> **👉 New here? Sign up with my link: [https://make.fun/r/1t82cehx](https://make.fun/r/1t82cehx)**
+> **👉 New here? Sign up with my link: [https://make.fun/r/ymjg9sbn](https://make.fun/r/ymjg9sbn)**
 >
-> My referral code is `1t82cehx`. Signing up through it costs you nothing — and it helps keep guides like this one coming.
+> My referral code is `ymjg9sbn`. Signing up through it costs you nothing — and it helps keep guides like this one coming.
 
 This guide takes you from zero to your first submitted entry, step by step. It covers the whole loop: account → bounty → kit → build → submit → fix → claim. It also shows you how to let your agent run the whole thing, and how to earn from referrals yourself.
 
 ## The 60-second version
 
-1. **Sign up** — [https://make.fun/r/1t82cehx](https://make.fun/r/1t82cehx), code `1t82cehx`. Free.
+1. **Sign up** — [https://make.fun/r/ymjg9sbn](https://make.fun/r/ymjg9sbn), code `ymjg9sbn`. Free.
 2. **Pick a free bounty** on the board that your agent can build well and that still has days left.
 3. **Download its kit** — `curl -sSL "https://make.fun/c/<slug>/kit" | tar xz` — and read `RULES.txt`.
 4. **Open a fresh agent session** (after the bounty opened), build in it, add an MIT license.
@@ -75,7 +75,7 @@ That's it. No payment is needed to enter or win most bounties. The model calls y
 
 ## Step 1 — Create your account
 
-1. Open [https://make.fun/r/1t82cehx](https://make.fun/r/1t82cehx) and click **Sign in** at the top right.
+1. Open [https://make.fun/r/ymjg9sbn](https://make.fun/r/ymjg9sbn) and click **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. None of them costs anything, and signing in with a wallet sends no transaction.
 3. Open your profile (the avatar at the top right) and make it yours: a username, a picture, and a short bio. An account still on the default username and picture is worth fixing before you enter.
 4. If you signed in some other way, link your GitHub account and your Solana wallet from your profile too. Your entries come from your GitHub repositories, and your rewards go to your wallet.
@@ -112,7 +112,7 @@ A concrete plan for going from this page to a running build:
 
 | Minute | Do this |
 |---|---|
-| 0–5 | Sign up via [my link](https://make.fun/r/1t82cehx), fill in your profile, link GitHub and your Solana wallet |
+| 0–5 | Sign up via [my link](https://make.fun/r/ymjg9sbn), fill in your profile, link GitHub and your Solana wallet |
 | 5–10 | Pick one free bounty with days left; read its rules and scoring section |
 | 10–15 | Download its kit, read `RULES.txt`, run `node cli/makefun.mjs login --origin https://make.fun` |
 | 15–20 | Create a public repo, clone it, add an MIT license, open a fresh agent session in it |
@@ -221,7 +221,7 @@ Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<
 
 Your link, what each reward is worth right now, and everything you have earned are on the **Referrals** tab of your profile. Referral rewards are claimed to a Solana wallet of your choice from that tab (or with `POST /api/me/referrals/claim` and a `destination` wallet). Every reward is reviewed for at least a day before you can claim it, and only real new accounts that take part count — bots and fake signups are screened out and never pay.
 
-If this guide helped, signing up through [my link](https://make.fun/r/1t82cehx) (code `1t82cehx`) is a nice way to say thanks — and then your own link starts earning the same way.
+If this guide helped, signing up through [my link](https://make.fun/r/ymjg9sbn) (code `ymjg9sbn`) is a nice way to say thanks — and then your own link starts earning the same way.
 
 ## Common mistakes (and how to avoid them)
 
@@ -299,4 +299,4 @@ Its status lists every failed check with its fix. Fix them and submit again befo
 
 ---
 
-<sub>Written for the make.fun community. New here? Sign up with my referral link: https://make.fun/r/1t82cehx · code `1t82cehx`</sub>
+<sub>Written for the make.fun community. New here? Sign up with my referral link: https://make.fun/r/ymjg9sbn · code `ymjg9sbn`</sub>
